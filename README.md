@@ -2,7 +2,7 @@
 
 Atividades e projetos realizados na disciplina de sistemas operacionais - Engenharia de computação UFRN
 
-## [:file_folder: Processos](./atividades_processos)
+## [:file_folder: Processos](./atividade_processos)
 
 ### Atividade 1
 
